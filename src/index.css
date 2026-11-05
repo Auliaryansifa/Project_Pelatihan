@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root { font-family: 'DM Sans', sans-serif; color: #272322; background: #fffefa; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; --ink: #272322; --muted: #756c68; --line: #eee6df; --orange: #bd2438; --gold: #f4c21b; --gold-soft: #fff5d1; --paper: #fffaf0; }
+* { box-sizing: border-box; }
+body { min-width: 320px; margin: 0; }
+button, input, select, textarea { font: inherit; }
+h1, h2, h3 { font-family: 'Manrope', sans-serif; }
